@@ -1,0 +1,110 @@
+[
+   {
+      "Team": "El Barrio",
+      "Wins": 1,
+      "Loses": 0,
+      "ScoredGoals": 5,
+      "AgainsGoals": 0,
+      "YellowCard": 0,
+      "RedCards": 0
+   },
+   {
+      "Team": "Ultimate Móstoles",
+      "Wins": 1,
+      "Loses": 0,
+      "ScoredGoals": 5,
+      "AgainsGoals": 1,
+      "YellowCard": 0,
+      "RedCards": 0
+   },
+   {
+      "Team": "Los Troncos FC",
+      "Wins": 1,
+      "Loses": 0,
+      "ScoredGoals": 5,
+      "AgainsGoals": 3,
+      "YellowCard": 1,
+      "RedCards": 0
+   },
+   {
+      "Team": "1K FC",
+      "Wins": 1,
+      "Loses": 0,
+      "ScoredGoals": 4,
+      "AgainsGoals": 2,
+      "YellowCard": 0,
+      "RedCards": 0
+   },
+   {
+      "Team": "Saiyans FC",
+      "Wins": 1,
+      "Loses": 0,
+      "ScoredGoals": 4,
+      "AgainsGoals": 2,
+      "YellowCard": 1,
+      "RedCards": 0
+   },
+   {
+      "Team": "Kunisports",
+      "Wins": 1,
+      "Loses": 0,
+      "ScoredGoals": 2,
+      "AgainsGoals": 1,
+      "YellowCard": 1,
+      "RedCards": 0
+   },
+   {
+      "Team": "Jijantes FC",
+      "Wins": 0,
+      "Loses": 1,
+      "ScoredGoals": 1,
+      "AgainsGoals": 2,
+      "YellowCard": 0,
+      "RedCards": 0
+   },
+   {
+      "Team": "Porcinos FC",
+      "Wins": 0,
+      "Loses": 1,
+      "ScoredGoals": 2,
+      "AgainsGoals": 4,
+      "YellowCard": 1,
+      "RedCards": 0
+   },
+   {
+      "Team": "Rayo de Barcelona",
+      "Wins": 0,
+      "Loses": 1,
+      "ScoredGoals": 2,
+      "AgainsGoals": 4,
+      "YellowCard": 0,
+      "RedCards": 0
+   },
+   {
+      "Team": "XBUYER TEAM",
+      "Wins": 0,
+      "Loses": 1,
+      "ScoredGoals": 2,
+      "AgainsGoals": 5,
+      "YellowCard": 1,
+      "RedCards": 0
+   },
+   {
+      "Team": "Aniquiladores FC",
+      "Wins": 0,
+      "Loses": 1,
+      "ScoredGoals": 1,
+      "AgainsGoals": 5,
+      "YellowCard": 0,
+      "RedCards": 0
+   },
+   {
+      "Team": "PIO FC",
+      "Wins": 0,
+      "Loses": 1,
+      "ScoredGoals": 0,
+      "AgainsGoals": 5,
+      "YellowCard": 1,
+      "RedCards": 0
+   }
+]
